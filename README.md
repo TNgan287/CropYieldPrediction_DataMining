@@ -1,3 +1,7 @@
 # CropYieldPrediction_DataMining
-Collect data from Kaggle, apply data preprocessing and preparation techniques in order to obtain clean data,  build machine learning models able to recommend a crop based on crop features, finally analyze and compare models’ performance.
-Link data: 
+Collect data from Kaggle, apply data preprocessing and preparation techniques in order to: <br> 
+- Clean data <br>
+- Preprocessing <br>
+- Build machine learning models (Logistic, Decision Tree, Random Forest, XGBoost, KNN, Bagging Classifier) to recommend a crop based on crop features <br>
+- Analyze and compare models’ performance. <br>
+Link data: https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset <br>
